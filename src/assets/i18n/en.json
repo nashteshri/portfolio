@@ -10,7 +10,7 @@
   "Banner.ActionBtn": "Get in touch",
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "With over <span class='underline'>1.2 years of experience</span> as a Full-Stack Developer, I have worked across the full development lifecycle, from writing <span class='underline'>unit tests</span> and setting up <span class='underline'>CI pipelines</span> to building backend systems with <span class='underline'>Express.js and MongoDB</span>. I have also led teams, fostering collaboration and aligning goals with empathy and clear communication.",
+    "With over <span class='underline'>1.5 years of experience</span> as a Full-Stack Developer, I have worked across the full development lifecycle, from writing <span class='underline'>unit tests</span> and setting up <span class='underline'>CI pipelines</span> to building backend systems with <span class='underline'>Express.js and MongoDB</span>. I have also led teams, fostering collaboration and aligning goals with empathy and clear communication.",
     "I specialize in creating scalable solutions by <span class='underline'>optimizing performance</span>, <span class='underline'>standardizing patterns</span>, and delivering clean, maintainable code. My expertise spans <span class='underline'>frontend frameworks</span> like <span class='underline'>Angular, React, and Next.js </span>, as well as <span class='underline'>backend technologies</span> such as <span class='underline'> Node.js, Express.js</span>, complemented by experience with NoSQL databases."
   ],
   "Experience.Title": "Experience",
